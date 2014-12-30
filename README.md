@@ -90,8 +90,11 @@ file [LICENSE_1_0.txt](LICENSE_1_0.txt) or copy at
 [3]: https://code.google.com/p/googletest
      "Google Test"
 [19]: https://en.wikibooks.org/wiki/More_C++_Idioms/Non-copyable_Mixin
+      "More C++ Idioms/Non-copyable Mixin"
 [20]: https://en.wikibooks.org/wiki/More_C++_Idioms/Curiously_Recurring_Template_Pattern
+      "More C++ Idioms/Curiously Recurring Template Pattern"
 [50]: https://books.google.de/books?id=Qx5oyB49poYC
+      "Effective C++: 55 Specific Ways to Improve Your Programs and Designs"
 [51]: http://boost.org/libs/core/noncopyable.htm
       "noncopyable"
 [100]: https://github.com/FlorianWolters
