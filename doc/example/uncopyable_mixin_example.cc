@@ -1,9 +1,8 @@
 /**
  * Provides usage examples for the `fw::core::UncopyableMixin` class.
  *
- * @file fw/core/uncopyable_mixin_example.cc
- * @author Florian Wolters <wolters.fl@gmail.com>
- *
+ * @file    fw/core/uncopyable_mixin_example.cc
+ * @author  Florian Wolters <wolters.fl@gmail.com>
  * @section License
  *
  * Copyright Florian Wolters 2014 (http://blog.florianwolters.de).
